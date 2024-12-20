@@ -1,0 +1,8 @@
+newmtl PlasticBeige
+Kd 0.4433962 0.3753181 0.2488874
+d 1
+
+newmtl DisplayPanel
+Kd 0 0 0
+d 1
+

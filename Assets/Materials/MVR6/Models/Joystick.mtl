@@ -1,0 +1,8 @@
+newmtl PlasticRed
+Kd 0.7075471 0.04879634 0
+d 1
+
+newmtl Rubber
+Kd 0.03773582 0.03773582 0.03773582
+d 1
+
